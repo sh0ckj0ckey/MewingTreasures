@@ -1,2 +1,2 @@
-# MewingTreasures
+# Mewing Treasures
 🌲 暮云春树，NoMewing 的作品集。
